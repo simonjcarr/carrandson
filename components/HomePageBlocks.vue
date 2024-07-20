@@ -2,18 +2,20 @@
   <section>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-[100%]">
       <div
-        class="bg-gray-100 rounded shadow-md border border-gray-900"
+        class=" rounded shadow-md border-2  "
+        style="background-color: #cfcbc6; border-color: #ccbca9; "
         v-for="block in blockContent"
         :key="block.title"
       >
         <div class="rounded">
           <h3
-            class="rounded-t text-center font-bold bg-gray-900 p-2 text-gray-100 text-lg md:text-xl"
+            class="rounded-t text-center font-bold  p-2 text-gray-700 text-lg md:text-xl"
+            style="background-color: #ccbca9;"
           >
             {{ block.title }}
           </h3>
         </div>
-        <div class="p-5 text-gray-900 text-lg">
+        <div class="p-5 text-gray-900 text-lg" style="background-color: #cfcbc6;">
           <article>
             {{ block.content }}
           </article>

@@ -1,7 +1,8 @@
 <template>
     <section>
         <div
-          class="mt-4 bg-gray-700 p-5 text-gray-200 rounded border border-gray-500"
+          class="mt-4  p-5 text-gray-700 rounded border"
+          style="background-color: #cfcbc6;  border-color: #ccbca9; border-width: 2px;"
         >
           <h2 class="pb-2 text-2xl font-semibold">Contact us</h2>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-20">
@@ -69,7 +70,7 @@
                 <div class="text-lg mt-2">
                   <p class="font-semibold">Email:</p>
                   <p>
-                    <a href="mailto:carrandson.gardenrooms@gmail.com">carrandson.gardenrooms@gmail.com</a>
+                    <a href="mailto:simonjcarr@gmail.com">simonjcarr@gmail.com</a>
                   </p>
                 </div>
               </address>
