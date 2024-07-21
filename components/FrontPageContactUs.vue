@@ -4,7 +4,8 @@
           class="mt-4  p-5 text-gray-700 rounded border"
           style="background-color: #cfcbc6;  border-color: #ccbca9; border-width: 2px;"
         >
-          <h2 class="pb-2 text-2xl font-semibold">Contact us</h2>
+            <a id="contact-us"></a>
+          <h2 class="pb-2 text-2xl font-semibold">Contact use</h2>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-20">
             <div>
               <form action="">
@@ -54,26 +55,33 @@
               </form>
             </div>
             
-            <div>
-              <address>
-                <div class="text-lg">
-                  <p class="font-semibold">Address:</p>
-                  <p>5 Chestnut Ave</p>
-                  <p>Penwortham, Preston</p>
-                  <p>Lancashire, PR1 0PP</p>
-                 
-                </div>
-                <div class="text-lg mt-2">
-                  <p class="font-semibold">Phone:</p>
-                  <p>07455169021</p>
-                </div>
-                <div class="text-lg mt-2">
-                  <p class="font-semibold">Email:</p>
-                  <p>
-                    <a href="mailto:simonjcarr@gmail.com">simonjcarr@gmail.com</a>
-                  </p>
-                </div>
-              </address>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <address>
+                  <div class="text-lg">
+                    <p class="font-semibold">Address:</p>
+                    <p>5 Chestnut Ave</p>
+                    <p>Penwortham, Preston</p>
+                    <p>Lancashire, PR1 0PP</p>
+                   
+                  </div>
+                  <div class="text-lg mt-2">
+                    <p class="font-semibold">Phone:</p>
+                    <p>07455169021</p>
+                  </div>
+                  <div class="text-lg mt-2">
+                    <p class="font-semibold">Email:</p>
+                    <p>
+                      <a href="mailto:simonjcarr@gmail.com">simonjcarr@gmail.com</a>
+                    </p>
+                  </div>
+                </address>
+              </div>
+              <div>
+                <picture>
+                  <img src="~/assets/images/penwortham-preston-map.jpg" alt="A map of the penwortham and preston area">
+                </picture>
+              </div>
             </div>
           </div>
         </div>
