@@ -51,7 +51,7 @@
       <div class="relative z-30">
         <picture>
           <img
-            src="~assets/images/garden-room-with-anvil.jpg"
+            src="~assets/images/garden-room-with-composite-cladding.jpg"
             class="img"
             alt="An example of composite cladding on a garden room in Penwortham, Preston built by Carr and Son"
           />
@@ -73,8 +73,8 @@
     <div class="text-center mt-5 text-3xl">
         <section>
             Make the frist step towards your own high quality, custom built garden room by Carr & Son based in Penwortham, Preston. 
-            <p>
-                 <a class=" font-semibold text-orange-900/70 hover:text-orange-700" href="#contact-us">Contact us now</a> for a free no obligation quote.
+            <p class="mt-5">
+                 <a class=" font-semibold text-orange-900/70 hover:text-orange-700" href="#contact-us">Contact us</a> to discuss your requirements and a free no obligation quote.
             </p>
         </section>
     </div>

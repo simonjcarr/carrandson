@@ -5,13 +5,13 @@
             <div class="p-5 text-lg  text-gray-900" style="background-color: #cfcbc6;">
                 <article>
                     <p>
-                        The Carr family has a proud history spanning generations in lancashire's trade industry from blacksmithing in the 1800's to joinery and general building work to the present day. 
+                        The Carr family has a proud history spanning generations in lancashire's trade industry from blacksmithing in the 1800's to joinery and garden rooms to the present day. 
                     </p>
                     <p>
                         We pride ourselves and our business on the quality of our work, the materials we use and satisfaction of our customers.
                     </p>
                     <p>
-                        Were located in Penwortham, Preston serving the local area and beyond.
+                        Were located in Penwortham, Preston in Lancashire serving the local area and beyond.
                     </p>
                 </article>
             </div>
