@@ -70,13 +70,40 @@
         </div>
       </div>
     </div>
-    <div class="text-center mt-5 text-3xl">
-        <section>
-            Make the frist step towards your own high quality, custom built garden room by Carr & Son based in Penwortham, Preston. 
-            <p class="mt-5">
-                 <a class=" font-semibold text-orange-900/70 hover:text-orange-700" href="#contact-us">Contact us</a> to discuss your requirements and a free no obligation quote.
+    <div class="text-center mt-5 mb-16">
+      <section>
+        <div class="grid grid-cols-1 md:grid-cols-2">
+          <div class="md:px-40 pt-10">
+            <h1 class="font-bold text-5xl md:text-6xl uppercase pb-10">Contact us</h1>
+            <p class="text-left">
+              
             </p>
-        </section>
+            <p class="text-2xl text-justify">
+              <a
+                class="font-bold text-orange-500  uppercase  hover:text-orange-700"
+                href="#contact-us"
+                >Contact Us</a
+              >
+              - Make the frist step towards your own beautiful, custom built
+              garden room by Carr & Son, a local firm in Penwortham, Preston.
+            </p>
+          </div>
+          
+          
+          <div class="md:px-40 pt-16 md:pt-10">
+            <h1 class="font-bold text-5xl md:text-6xl uppercase pb-10">Find out more</h1>
+            <p class="text-left">
+              
+            </p>
+            <p class="text-2xl text-justify">
+              <a href="" class="font-bold text-orange-500  uppercase  hover:text-orange-700">Find out more</a>
+              about what makes our garden rooms stand out. We build to the highest standards with the best quality materials for a long lasting construction.
+            </p>
+          </div>
+        </div>
+
+        
+      </section>
     </div>
   </section>
 </template>
@@ -109,6 +136,4 @@
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-
-
 </style>

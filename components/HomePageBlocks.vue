@@ -2,8 +2,8 @@
   <section>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-[100%]">
       <div
-        class=" rounded shadow-md border-2  "
-        style="background-color: #cfcbc6; border-color: #ccbca9; "
+        class=" rounded shadow-md border-2 bg-gray-100 font-semibold "
+        style=" border-color: #ccbca9; "
         v-for="block in blockContent"
         :key="block.title"
       >
@@ -15,7 +15,7 @@
             {{ block.title }}
           </h3>
         </div>
-        <div class="p-5 text-gray-900 text-lg" style="background-color: #cfcbc6;">
+        <div class="p-5 text-gray-900 text-lg" >
           <article>
             {{ block.content }}
           </article>
