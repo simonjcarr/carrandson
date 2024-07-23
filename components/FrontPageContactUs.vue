@@ -5,7 +5,7 @@
           style="background-color: #cfcbc6;  border-color: #ccbca9; border-width: 2px;"
         >
             <a id="contact-us"></a>
-          <h2 class="pb-2 text-2xl font-semibold">Contact us</h2>
+          <h2 class="pb-2 text-3xl font-bold text-orange-500 uppercase">Contact us</h2>
           <h3>We look forwarding to discussing your requirements with you</h3>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-20">
             <div>

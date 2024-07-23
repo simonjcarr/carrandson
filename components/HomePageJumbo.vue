@@ -70,7 +70,7 @@
         </div>
       </div>
     </div>
-    <div class="text-center mt-5 mb-16">
+    <div class="text-center my-10 pb-10 bg-gray-200">
       <section>
         <div class="grid grid-cols-1 md:grid-cols-2">
           <div class="md:px-40 pt-10">
@@ -96,7 +96,8 @@
               
             </p>
             <p class="text-2xl text-justify">
-              <a href="" class="font-bold text-orange-500  uppercase  hover:text-orange-700">Find out more</a>
+              <a href="/about-our-garden-rooms" class="font-bold text-orange-500  uppercase  hover:text-orange-700">Find out more</a>
+              
               about what makes our garden rooms stand out. We build to the highest standards with the best quality materials for a long lasting construction.
             </p>
           </div>
