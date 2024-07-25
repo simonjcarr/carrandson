@@ -15,7 +15,7 @@ module.exports = {
             host: ['65.21.242.43'],
             ref: 'origin/main',
             repo: 'git@github.com:simonjcarr/carrandson.git',
-            ssh_options: ['/home/simon/.ssh/id_ed25519'],
+            key: ['/home/simon/.ssh/id_ed25519'],
             path: '/home/simon/apps/carrandson',
             'post-deploy': 'npm install && npm build && pm2 startOrRestart ecosystem.config.js --env production'
         }
