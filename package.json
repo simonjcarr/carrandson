@@ -13,6 +13,7 @@
     "@nuxt/image": "^1.7.0",
     "autoprefixer": "^10.4.19",
     "nuxt": "^3.12.4",
+    "nuxt-mongoose": "^1.0.6",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.6",
     "vue": "latest"
