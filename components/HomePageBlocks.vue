@@ -16,7 +16,7 @@
         </div>
         <div class="pt-2 text-gray-900 text-lg font-normal text-justify" >
           <article class="">
-            <div class="h-[200px]">
+            <div class="h-[200px] text-xl">
               {{ block.content }}
             </div>
             <div class="">

@@ -70,22 +70,22 @@
         </div>
       </div>
     </div>
-    <div class="text-center my-10 pb-10 bg-gray-200">
+    <div class="text-left my-10 pb-10 bg-gray-100">
       <section>
-        <div class="grid grid-cols-1 md:grid-cols-2">
+        <div class="grid grid-cols-1 md:grid-cols-2 px-5 md:px-0">
           <div class="md:px-40 pt-10">
             <h1 class="font-bold text-5xl md:text-6xl uppercase pb-10">Contact us</h1>
             <p class="text-left">
               
             </p>
-            <p class="text-2xl text-justify">
+            <p class="text-2xl text-left">
               <a
                 class="font-bold text-orange-500  uppercase  hover:text-orange-700"
                 href="#contact-us"
                 >Contact Us</a
               >
-              - Make the frist step towards your own beautiful, custom built
-              garden room by Carr & Son, a local firm in Penwortham, Preston.
+              - Make the first step towards your own beautiful, custom built
+              garden room by Carr & Son, covering Penwortham, Preston and Lancashire.
             </p>
           </div>
           
@@ -95,7 +95,7 @@
             <p class="text-left">
               
             </p>
-            <p class="text-2xl text-justify">
+            <p class="text-2xl text-left">
               <a href="/about-our-garden-rooms" class="font-bold text-orange-500  uppercase  hover:text-orange-700">Find out more</a>
               
               about what makes our garden rooms stand out. We build to the highest standards with the best quality materials for a long lasting construction.

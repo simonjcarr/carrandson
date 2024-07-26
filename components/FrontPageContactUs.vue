@@ -6,8 +6,8 @@
         >
             <a id="contact-us"></a>
           <h2 class="pb-2 text-3xl font-bold text-orange-500 uppercase">Contact us</h2>
-          <h3>We look forwarding to discussing your requirements with you</h3>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-20">
+          <h3 class="text-xl mb-5">We look forwarding to discussing your requirements with you.</h3>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-20 text-xl">
             <div>
               <form action="">
                   <div class="mb-4">
@@ -57,20 +57,20 @@
             </div>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div>
+              <div class="text-xl">
                 <address>
-                  <div class="text-lg">
+                  <div class="">
                     <p class="font-semibold">Address:</p>
                     <p>5 Chestnut Ave</p>
                     <p>Penwortham, Preston</p>
                     <p>Lancashire, PR1 0PP</p>
                    
                   </div>
-                  <div class="text-lg mt-2">
+                  <div class=" mt-2">
                     <p class="font-semibold">Phone:</p>
                     <p>07455169021</p>
                   </div>
-                  <div class="text-lg mt-2">
+                  <div class=" mt-2">
                     <p class="font-semibold">Email:</p>
                     <p>
                       <a href="mailto:simonjcarr@gmail.com">simonjcarr@gmail.com</a>
